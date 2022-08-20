@@ -1,0 +1,27 @@
+body{
+    margin-top: 300px;
+    text-align: center;
+    color: aliceblue;
+}
+#clock{
+    font-size: 100px;
+    color: aliceblue;
+    text-align: center;
+}
+#color{
+    color: aliceblue;  
+    text-align: center;
+}
+
+div{
+    vertical-align: middle;
+    margin-top: 300px;
+    position: relative;
+left: 50%;
+transform: translate(-50%, 0);
+}
+button{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
